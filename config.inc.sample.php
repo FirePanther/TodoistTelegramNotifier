@@ -4,7 +4,6 @@
  * @copyright        2016 Suat Secmen
  * @license          MIT License
  */
-
 // configs
 $conf = [
 	// you will get a single message with this number of ToDo's.

@@ -1,5 +1,10 @@
 <?php
 /**
+ * @author           Suat Secmen (http://suat.be)
+ * @copyright        2016 Suat Secmen
+ * @license          MIT License
+ */
+/**
  * Get the source of an SSL page.
  */
 function getSslPage($url) {

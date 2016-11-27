@@ -1,5 +1,10 @@
 <?php
 /**
+ * @author           Suat Secmen (http://suat.be)
+ * @copyright        2016 Suat Secmen
+ * @license          MIT License
+ */
+/**
  * Gets all todoist resources
  */
 function getAllTodoistItems() {

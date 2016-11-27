@@ -1,5 +1,10 @@
 <?php
 /**
+ * @author           Suat Secmen (http://suat.be)
+ * @copyright        2016 Suat Secmen
+ * @license          MIT License
+ */
+/**
  * Send a message via telegram to yourself. The messages can be collected and
  * sent alltogether with `sendTelegramMsg()`.
  */
