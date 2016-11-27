@@ -3,6 +3,8 @@
 Get daily notifications in Telegram about your oldest Todoist items. Don't forget
 your old Todo's. Get everyday another Todo(s).
 
+![Preview](http://i.dv.tl/Screenshot_2016-11-27_at_23.54.45.png)
+
 ## Config
 
 First rename config.inc.sample.php into config.inc.php. Open the file with an
