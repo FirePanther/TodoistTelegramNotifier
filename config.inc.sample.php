@@ -1,4 +1,9 @@
 <?php
+/**
+ * @author           Suat Secmen (http://suat.be)
+ * @copyright        2016 Suat Secmen
+ * @license          MIT License
+ */
 // todoist
 $todoist = [
 	'token' => ''
